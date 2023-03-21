@@ -32,5 +32,5 @@ ninja = {
     name: 'yoshi',
     belt: 'orange',
     age: 40,
-    skills: []
+    // skills: []
 }
